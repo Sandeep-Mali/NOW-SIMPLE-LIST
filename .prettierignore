@@ -1,0 +1,3 @@
+#files ignored by prettier
+example
+node_modules
