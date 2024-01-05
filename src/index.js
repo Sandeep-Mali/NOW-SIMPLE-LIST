@@ -1,1 +1,1 @@
-import './x-225732-test-project';
+import "./x-225732-test-project";
